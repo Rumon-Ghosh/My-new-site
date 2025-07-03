@@ -4,3 +4,14 @@ div {
   text-align: center;
   margin: 10px;
 }
+
+.second-section {
+  background-color: cadetblue;
+  text-align: start;
+
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
